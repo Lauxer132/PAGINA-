@@ -1,0 +1,91 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/6e/eb/ef/6eebeffcc2a604a05b0a142ea82b7729.jpg);
+    background-size: cover;
+}
+
+.ROJO {
+    color: #F74080;
+
+    text-align: center;
+    text-shadow: rgb(160, 121, 121) 0.1em 0.1em 0.2em;
+}
+
+.Blanco {
+    color: #FA801E;
+    text-align: center;
+}
+
+.BlancO {
+    color: #FA801E
+}
+
+.UWU {
+    color: #F74080;
+    text-align: center;
+    text-shadow: rgb(160, 121, 121) 0.1em 0.1em 0.2em;
+
+}
+
+.PEPER {
+    color: #FA801E;
+    text-align: end;
+}
+
+.YUKI {
+    color: rgb(245, 245, 220)
+}
+
+.ELZIN {
+    color: #FA801E;
+    text-align: end;
+}
+
+.PROFE {
+    color: #FA801E;
+    text-align: end;
+}
+
+.Hoy {
+    color: #F74080;
+    text-align: center;
+    text-shadow: rgb(160, 121, 121)0.1em 0.1em 0.2em;
+}
+
+.Mañana {
+    color: #F74080;
+    text-align: end;
+    text-shadow: rgb(160, 121, 121)0.1em 0.1em 0.2em;
+}
+
+.Viernes {
+    color: #F74080;
+    text-align: end;
+    text-shadow: rgb(160, 121, 121)0.1em 0.1em 0.2em;
+}
+
+.T {
+    color: #FA801E;
+    text-align: center;
+}
+
+.CONTE {
+    color: #FA801E;
+    text-align: center;
+}
+
+.VIDEO {
+    text-align: center;
+}
+
+.table,
+.T,
+.CONTE,
+.GRADOS,
+sub {
+    border: 5px #28B0FA;
+    border-collapse: collapse;
+}
+
+.face {
+    color: #F74080;
+}
